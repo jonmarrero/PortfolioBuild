@@ -8,6 +8,7 @@ export default function Bio(props){
             <BioImage src={about.image}/>
             <h3>{about.email}</h3>
             <h1>{about.bio}</h1>
+            <h4>{about.contact}</h4>
         </BioContainer>
     );
 }
