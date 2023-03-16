@@ -1,0 +1,30 @@
+[
+    {
+        "image": "https://lh3.googleusercontent.com/vmJLXeO8kgYB2VdXiJr4F98exxM8W_Wiza5S5hMDMREtWivFzuuyZvmy078sFI7dUi6BAHmwof0szFKx5qmUjbwc2zw=w640-h400-e365-rj-sc0x00ffffff",
+        "name": "Job Application Tracker",
+        "description": "Job Tracker built using React JS and Express that allows the user to have full CRUD accessibility.",
+        "github": "https://github.com/jonmarrero/application-tracker-frontend",
+        "live": "https://my-job-tracker-iqlw.onrender.com/"
+    },
+    {
+        "image": "https://beautifuldawndesigns.net/wp-content/uploads/2021/11/watercolor-bookmarks8.jpg",
+        "name": "Bookmark'd",
+        "description": "Application that allows user to track, create, update, and delete all bookmarks they create with full. Frontend is built using React, Backend is Express JS.",
+        "github": "https://github.com/jonmarrero/frontend-bookmark",
+        "live": "https://bookmark-app.onrender.com/"
+    },
+    {
+        "image": "https://www.nbdfitness.com/wp-content/uploads/2020/02/Gym-in-Springfield-NJ.jpg",
+        "name": "The Zoo",
+        "description": "Fully functional workout application that allows the user to track and create all personal workouts. Using React JS and Express for the build along with SASS for styling.",
+        "github": "insert github link here",
+        "live": "insert deployed live link to site here"
+    },
+    {
+        "image": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/nfl-1651510872.jpg?crop=1.00xw:0.989xh;0,0&resize=1200:*",
+        "name": "My NFL",
+        "description": "Full CRUD application using React JS and Django that allows the user to track all teams that also includes a favorites function",
+        "github": "https://github.com/jonmarrero/project4frontend",
+        "live": "https://splendid-marshmallow-c980bc.netlify.app/"
+    }
+]
