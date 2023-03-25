@@ -17,8 +17,8 @@
         "image": "https://www.nbdfitness.com/wp-content/uploads/2020/02/Gym-in-Springfield-NJ.jpg",
         "name": "The Zoo",
         "description": "Fully functional workout application that allows the user to track and create all personal workouts. Using React JS and Express for the build along with SASS for styling.",
-        "github": "insert github link here",
-        "live": "insert deployed live link to site here"
+        "github": "https://github.com/jonmarrero/finalcapstoneFE",
+        "live": "https://bright-piroshki-1ccae7.netlify.app/"
     },
     {
         "image": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/nfl-1651510872.jpg?crop=1.00xw:0.989xh;0,0&resize=1200:*",
